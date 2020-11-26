@@ -10,7 +10,7 @@ assignees:
   - fcjr
 status-website:
   cname: status.leftshift.com
-  logoUrl: https://raw.githubusercontent.com/leftshiftlogical/status/master/static/img/icon.png
+  logoUrl: https://raw.githubusercontent.com/leftshiftlogical/status/master/static/img/logo.png
   favicon: https://raw.githubusercontent.com/leftshiftlogical/status/favicon-32x32.png
   name: Leftshift Logical Status
   logoHref: https://www.leftshift.com
