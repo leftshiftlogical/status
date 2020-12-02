@@ -5,7 +5,7 @@
     "slug": "leftshift-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 412
+    "time": 385
   },
   {
     "name": "Commute API",
@@ -13,6 +13,6 @@
     "slug": "commute-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 561
+    "time": 548
   }
 ]
