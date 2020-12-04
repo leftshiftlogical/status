@@ -5,7 +5,15 @@
     "slug": "leftshift-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 385
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 356,
+    "timeDay": 313,
+    "timeWeek": 144,
+    "timeMonth": 356,
+    "timeYear": 356
   },
   {
     "name": "Commute API",
@@ -13,6 +21,14 @@
     "slug": "commute-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 548
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 568,
+    "timeDay": 746,
+    "timeWeek": 553,
+    "timeMonth": 568,
+    "timeYear": 568
   }
 ]
