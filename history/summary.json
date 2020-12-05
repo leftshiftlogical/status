@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 313,
+    "time": 336,
+    "timeDay": 90,
     "timeWeek": 144,
-    "timeMonth": 356,
-    "timeYear": 356
+    "timeMonth": 336,
+    "timeYear": 336
   },
   {
     "name": "Commute API",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 746,
-    "timeWeek": 553,
-    "timeMonth": 568,
-    "timeYear": 568
+    "time": 558,
+    "timeDay": 438,
+    "timeWeek": 531,
+    "timeMonth": 558,
+    "timeYear": 558
   }
 ]
