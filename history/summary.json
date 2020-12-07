@@ -2,6 +2,7 @@
   {
     "name": "leftshift.com",
     "url": "https://www.leftshift.com",
+    "icon": "https://favicons.githubusercontent.com/www.leftshift.com",
     "slug": "leftshift-com",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 71,
-    "timeWeek": 138,
-    "timeMonth": 317,
-    "timeYear": 317
+    "time": 302,
+    "timeDay": 88,
+    "timeWeek": 136,
+    "timeMonth": 302,
+    "timeYear": 302,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Commute API",
     "url": "https://commuteapi.com/healthcheck",
+    "icon": "https://favicons.githubusercontent.com/commuteapi.com",
     "slug": "commute-api",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 437,
-    "timeWeek": 529,
-    "timeMonth": 549,
-    "timeYear": 549
+    "time": 539,
+    "timeDay": 392,
+    "timeWeek": 507,
+    "timeMonth": 539,
+    "timeYear": 539,
+    "dailyMinutesDown": {}
   }
 ]
