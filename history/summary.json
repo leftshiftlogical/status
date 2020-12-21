@@ -22,17 +22,19 @@
     "url": "https://commuteapi.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/commuteapi.com",
     "slug": "commute-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 551,
-    "timeWeek": 596,
-    "timeMonth": 543,
-    "timeYear": 543,
-    "dailyMinutesDown": {}
+    "time": 542,
+    "timeDay": 536,
+    "timeWeek": 586,
+    "timeMonth": 542,
+    "timeYear": 542,
+    "dailyMinutesDown": {
+      "2020-12-21": 0
+    }
   }
 ]
