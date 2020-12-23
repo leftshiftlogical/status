@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 193,
-    "timeWeek": 211,
-    "timeMonth": 241,
-    "timeYear": 241,
+    "time": 237,
+    "timeDay": 95,
+    "timeWeek": 205,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "commute-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 539,
-    "timeDay": 500,
-    "timeWeek": 561,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "time": 543,
+    "timeDay": 691,
+    "timeWeek": 585,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2020-12-21": 15
     }
